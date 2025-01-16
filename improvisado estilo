@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 12 dic 2024, 17:51:12
+    Author     : Usuario
+*/
+
+/* Formato general de los botones (Up y Down) */
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.circular-button {
+    -fx-background-color: #87CEEB; /* Azul claro */
+    -fx-background-radius: 50; /* Hace que el botón sea redondo */
+    -fx-border-color: #4682B4; /* Borde azul más oscuro */
+    -fx-border-width: 2; /* Ancho del borde */
+    -fx-border-radius: 50; /* Aplica el redondeo al borde */
+    -fx-min-width: 50; /* Anchura mínima */
+    -fx-min-height: 50; /* Altura mínima */
+    -fx-max-width: 50; /* Anchura máxima */
+    -fx-max-height: 50; /* Altura máxima */
+    -fx-valignment: center;
+    -fx-halignment: center;
+}
